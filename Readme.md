@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomGridControl.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridControl.cs) (VB: [CustomGridControl.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridControl.vb))
+* [CustomGridControlView.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlView.cs) (VB: [CustomGridControlView.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlView.vb))
+* [CustomGridControlViewInfo.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlViewInfo.cs) (VB: [CustomGridControlViewInfoRegistrator.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlViewInfoRegistrator.vb))
+* [CustomGridControlViewInfoRegistrator.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlViewInfoRegistrator.cs) (VB: [CustomGridControlViewInfoRegistrator.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlViewInfoRegistrator.vb))
+* [CustomGridControlViewPainter.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlViewPainter.cs) (VB: [CustomGridControlViewPainter.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridControlViewPainter.vb))
+* [CustomGridFilterPanelInfoArgs.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridFilterPanelInfoArgs.cs) (VB: [CustomGridFilterPanelInfoArgs.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridFilterPanelInfoArgs.vb))
+* [CustomGridFilterPanelPainter.cs](./CS/GridWithFilterPanelButtons/CustomGridControl/CustomGridFilterPanelPainter.cs) (VB: [CustomGridFilterPanelPainter.vb](./VB/GridWithFilterPanelButtons/CustomGridControl/CustomGridFilterPanelPainter.vb))
+* [Program.cs](./CS/GridWithFilterPanelButtons/Program.cs) (VB: [Program.vb](./VB/GridWithFilterPanelButtons/Program.vb))
+* [TestData.cs](./CS/GridWithFilterPanelButtons/TestData.cs) (VB: [TestData.vb](./VB/GridWithFilterPanelButtons/TestData.vb))
+* [XtraForm1.cs](./CS/GridWithFilterPanelButtons/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/GridWithFilterPanelButtons/XtraForm1.vb))
+<!-- default file list end -->
 # How to add custom buttons to FilterPanel in GridControl
 
 
